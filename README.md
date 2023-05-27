@@ -1,7 +1,7 @@
-<h1> Oi! Meu nome é Luciana. </h1>
+<h1> Seja bem-Vindo(a)! </h1>
 
 <div>
-<a href="https://github.com/Luciana-Maria">
+<a href="https://github.com/luciana-maria">
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luciana-maria&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-maria&layout=compact&langs_count=7&theme=react" />
 
@@ -27,7 +27,6 @@
 <a [href="mailto:lucianamaria1984santos@gmail.com](mailto:href=%22mailto:lucianamaria1984santos@gmail.com)">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
-!https://github.com/Luciana-Maria/Luciana-Maria/blob/output/github-contribution-grid-snake.svg
-
 </div>
+  
+  ![snake gif](https://github.com/Luciana-Maria/Luciana-Maria/blob/output/github-contribution-grid-snake.svg)

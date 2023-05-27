@@ -16,7 +16,7 @@
 
 </div>
 <br>
-  <h1> Meus Contatos</h1>
+  <h1 align="left"> Meus Contatos</h1>
 <a href="https://www.instagram.com/invites/contact/?i=17p7mhjjhms16&utm_content=2pxrn6z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luciana-santos-maria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5541992298428" target="_blank">

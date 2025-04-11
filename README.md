@@ -1,7 +1,7 @@
 <h1> Seja bem-vindo(a)! </h1>
 <h2> Cursando</h2>
 <p> Análise e Desenvolvimento de Sistemas na Estácio </p>
-<p> Desenvolvimento web na Rocktseat </p>
+
 
 <div>
 <a href="https://github.com/luciana-maria">

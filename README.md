@@ -1,36 +1,57 @@
-<h1> Seja bem-vindo(a)! </h1>
-<h2> Cursando</h2>
-<p> Análise e Desenvolvimento de Sistemas na Estácio </p>
+<h1 align="center">👋 Olá, eu sou a Luciana!</h1>
+
+<p align="center">
+  💻 Estudante de ADS | ☁️ Cloud | 📊 Dados <br>
+  Apaixonada por tecnologia com propósito 
+</p>
+
+---
+
+### 🚀 Sobre mim
+- 🎓 Graduada em Pedagogia e atualmente cursando **Análise e Desenvolvimento de Sistemas**
+-  Foco atual: **Cloud Computing, Power BI, Análise de Dados **
+- 📚 Estudando para certificações: **AWS Cloud Practitioner** e **Azure Fundamentals**
+- 🧪 Desenvolvendo projetos **tecnologia**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
 
 
-<div>
-<a href="https://github.com/luciana-maria">
-<img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luciana-maria&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-maria&layout=compact&langs_count=7&theme=react" />
+- 📊 **[Dashboard de Análise de Dados em Power BI](https://github.com/seuusuario/analise-powerbi)**  
+  Projeto com relatórios interativos voltados à tomada de decisão.
 
-<img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
-<br>
-<div  align="center">
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- ☁️ **[Projeto final Escola da Nuvem com AWS CLI](https://github.com/Luciana-Maria/projeto-chatbot)**  
+ Aplicativo de apoio em situações de emergência para mulheres e pessoas LGBTQIAPN+, com botão de pânico, geolocalização e acesso rápido a redes de apoio.
 
-</div>
-<br>
-  <h1 align="left"> Meus Contatos</h1>
-  <p> E-mail lucianamaria1984santos@gmail.com</p>
-<a href="https://www.instagram.com/invites/contact/?i=17p7mhjjhms16&utm_content=2pxrn6z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luciana-santos-maria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/55" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-</a>
-<a href="https://discord.gg/lucianamaria#9911"target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</a>
+---
 
-</a>
-</div>
-  
-  ![snake gif](https://github.com/Luciana-Maria/Luciana-Maria/blob/output/github-contribution-grid-snake.svg)
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luciana-maria&show_icons=true&theme=radical" alt="Estatísticas do GitHub da Luciana" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-maria&layout=compact&theme=radical" alt="Linguagens mais usadas por Luciana" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciana-maria&theme=radical" alt="Contribuições contínuas da Luciana" />
+</p>
+
+---
+
+### 📫 Contato
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/luciana-santos-maria/)
+- 📧 Email: lucianamaria1984santos@gmail.com
+
+---
+
+⭐ Vamos conectar e construir soluções que importam!

@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Graduada em Pedagogia e atualmente cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Graduada em Pedagogia e atualmente cursando ** Análise e Desenvolvimento de Sistemas **
 -  Foco atual: **Cloud Computing, Power BI, Análise de Dados **
 - 📚 Estudando para certificações: **AWS Cloud Practitioner** e **Azure Fundamentals**
 - 🧪 Desenvolvendo projetos **tecnologia**

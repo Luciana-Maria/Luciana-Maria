@@ -1,21 +1,21 @@
 <h1 align="center">👋 Olá, eu sou a Luciana!</h1>
 
 <p align="center">
-  💻 Estudante de ADS | ☁️ Cloud | 📊 Dados <br>
+   Estudante de ADS | QA | Cloud | Dados <br>
   Apaixonada por tecnologia com propósito 
 </p>
 
 ---
 
-### 🚀 Sobre mim
-- 🌟 Olá! Sou a Luciana — profissional em transição de carreira, apaixonada por tecnologia, testes de software e soluções que funcionam de verdade.
+### Sobre mim
+- Olá! Sou a Luciana — profissional em transição de carreira, apaixonada por tecnologia, testes de software e soluções que funcionam de verdade.
 
-🎯 Atualmente, estou focada em aprender mais sobre Quality Assurance, com experiências em testes manuais, documentação técnica e boas práticas de desenvolvimento.
+Atualmente, estou focada em aprender mais sobre Quality Assurance, com experiências em testes manuais, documentação técnica e boas práticas de desenvolvimento.
 
-🧠 Estudo Análise e Desenvolvimento de Sistemas e me preparo para tirar a certificação AWS Cloud Practitioner, depois de passar pela Escola da Nuvem, onde tive contato com fundamentos de Cloud Computing.
+Estudo Análise e Desenvolvimento de Sistemas e me preparo para tirar a certificação AWS Cloud Practitioner, depois de passar pela Escola da Nuvem, onde tive contato com fundamentos de Cloud Computing.
 
-📚 Tenho conhecimentos em:
-- Testes manuais (funcional, regressão e exploratório)
+Tenho conhecimentos em:
+- Testes manuais (funcional, regressão e exploratório)- iniciante.
 - Documentação de bugs e evidências com clareza
 - Git, GitHub, Trello, Notion e Excel
 - Lógica de programação com Python

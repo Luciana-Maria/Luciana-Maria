@@ -8,10 +8,22 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Graduada em Pedagogia e atualmente cursando ** Análise e Desenvolvimento de Sistemas **
--  Foco atual: **Cloud Computing, Power BI, Análise de Dados **
-- 📚 Estudando para certificações: **AWS Cloud Practitioner** e **Azure Fundamentals**
-- 🧪 Desenvolvendo projetos **tecnologia**
+- 🌟 Olá! Sou a Luciana — profissional em transição de carreira, apaixonada por tecnologia, testes de software e soluções que funcionam de verdade.
+
+🎯 Atualmente, estou focada em aprender mais sobre Quality Assurance, com experiências em testes manuais, documentação técnica e boas práticas de desenvolvimento.
+
+🧠 Estudo Análise e Desenvolvimento de Sistemas e me preparo para tirar a certificação AWS Cloud Practitioner, depois de passar pela Escola da Nuvem, onde tive contato com fundamentos de Cloud Computing.
+
+📚 Tenho conhecimentos em:
+- Testes manuais (funcional, regressão e exploratório)
+- Documentação de bugs e evidências com clareza
+- Git, GitHub, Trello, Notion e Excel
+- Lógica de programação com Python
+- Cloud (AWS Foundations)
+
+ Além da tecnologia, trago minha bagagem como empreendedora, com foco em organização, entrega com qualidade e atenção aos detalhes.
+
+Busco minha primeira oportunidade na área de QA e estou animada pra crescer em um time colaborativo, aprendendo todos os dias.
 
 ---
 
@@ -20,7 +32,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 

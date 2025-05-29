@@ -10,12 +10,12 @@
 ### Sobre mim
 - Olá! Sou a Luciana — profissional em transição de carreira, apaixonada por tecnologia, testes de software e soluções que funcionam de verdade.
 
-Atualmente, estou focada em aprender mais sobre Quality Assurance, com experiências em testes manuais, documentação técnica e boas práticas de desenvolvimento.
+Atualmente, estou focada em aprender mais sobre Quality Assurance, testes manuais, documentação técnica e boas práticas de desenvolvimento.
 
 Estudo Análise e Desenvolvimento de Sistemas e me preparo para tirar a certificação AWS Cloud Practitioner, depois de passar pela Escola da Nuvem, onde tive contato com fundamentos de Cloud Computing.
 
 Tenho conhecimentos em:
-- Testes manuais (funcional, regressão e exploratório)- iniciante.
+- Testes manuais (funcional, regressão e exploratório)
 - Documentação de bugs e evidências com clareza
 - Git, GitHub, Trello, Notion e Excel
 - Lógica de programação com Python

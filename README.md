@@ -48,15 +48,7 @@ Busco minha primeira oportunidade na área de QA e estou animada pra crescer em 
 
 ---
 
-### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciana-maria&show_icons=true&theme=radical" alt="Estatísticas do GitHub da Luciana" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-maria&layout=compact&theme=radical" alt="Linguagens mais usadas por Luciana" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciana-maria&theme=radical" alt="Contribuições contínuas da Luciana" />
-</p>
-
----
 
 ### 📫 Contato
 

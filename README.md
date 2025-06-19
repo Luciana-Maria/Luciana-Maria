@@ -1,10 +1,5 @@
 <h1 align="center"> Olá, eu sou a Luciana!</h1>
 
-<p align="center">
-   Estudante de ADS | QA | Cloud | Dados <br>
-  Apaixonada por tecnologia com propósito 
-</p>
-
 ---
 
 ### Sobre mim

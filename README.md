@@ -8,22 +8,15 @@
 ---
 
 ### Sobre mim
-- Olá! Sou a Luciana — profissional em transição de carreira, apaixonada por tecnologia, testes de software e soluções que funcionam de verdade.
+Olá! Sou Luciana, profissional em transição de carreira para a área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas e também em Pedagogia, com uma forte base em lógica, raciocínio estruturado e comunicação.
 
-Atualmente, estou focada em aprender mais sobre Quality Assurance, testes manuais, documentação técnica e boas práticas de desenvolvimento.
+Atualmente, estou na **segunda fase do Programa Desenvolve do Grupo Boticário**, participando da trilha de **Engenharia de Dados**, onde venho aprofundando meus conhecimentos em banco de dados, ETL, pipelines e boas práticas em projetos de dados.
 
-Estudo Análise e Desenvolvimento de Sistemas e me preparo para tirar a certificação AWS Cloud Practitioner, depois de passar pela Escola da Nuvem, onde tive contato com fundamentos de Cloud Computing.
+Tenho como foco a área de **Qualidade de Software (QA)** e busco unir minha formação pedagógica com a tecnologia para entregar valor real aos produtos e experiências digitais. Além disso, tenho me dedicado à construção de um portfólio prático, desenvolvendo soluções em Python e aprofundando meu domínio em testes, dados e automação.
 
-Tenho conhecimentos em:
-- Testes manuais (funcional, regressão e exploratório)
-- Documentação de bugs e evidências com clareza
-- Git, GitHub, Trello, Notion e Excel
-- Lógica de programação com Python
-- Cloud (AWS Foundations)
+Além disso estou me preparando para certificação Cloud Practitioner da AWS
 
- Além da tecnologia, trago minha bagagem como empreendedora, com foco em organização, entrega com qualidade e atenção aos detalhes.
-
-Busco minha primeira oportunidade na área de QA e estou animada pra crescer em um time colaborativo, aprendendo todos os dias.
+🚀 Em constante aprendizado e aberta a oportunidades que desafiem meu crescimento técnico e humano.
 
 ---
 

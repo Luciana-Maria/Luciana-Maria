@@ -18,18 +18,13 @@ Além disso estou me preparando para certificação Cloud Practitioner da AWS
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📂 Projetos em Destaque
-
-
-- 📊 **[Dashboard de Análise de Dados em Power BI](https://github.com/seuusuario/analise-powerbi)**  
-  Projeto com relatórios interativos voltados à tomada de decisão.
+### 📂 Projeto em Destaque
 
 - ☁️ **[Projeto final Escola da Nuvem com AWS CLI](https://github.com/Luciana-Maria/projeto-chatbot)**  
  Aplicativo de apoio em situações de emergência para mulheres e pessoas LGBTQIAPN+, com botão de pânico, geolocalização e acesso rápido a redes de apoio.

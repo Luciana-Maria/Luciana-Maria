@@ -31,8 +31,6 @@ Além disso estou me preparando para certificação Cloud Practitioner da AWS
 
 ---
 
-
-
 ### 📫 Contato
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/luciana-santos-maria/)

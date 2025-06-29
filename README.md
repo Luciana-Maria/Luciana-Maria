@@ -21,6 +21,14 @@ Além disso estou me preparando para certificação Cloud Practitioner da AWS
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-003366?style=flat-square&logo=xray&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-4C4C4C?style=flat-square&logo=trello&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5A9FD4?style=flat-square&logo=cucumber&logoColor=white)
 
 ---
 

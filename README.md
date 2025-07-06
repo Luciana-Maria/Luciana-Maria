@@ -7,7 +7,7 @@ Olá! Sou Luciana, profissional em transição de carreira para a área de tecno
 
 Atualmente, estou na **segunda fase do Programa Desenvolve do Grupo Boticário**, participando da trilha de **Engenharia de Dados**, onde venho aprofundando meus conhecimentos em banco de dados, ETL, pipelines e boas práticas em projetos de dados.
 
-Tenho como foco a área de **Qualidade de Software (QA)** e busco unir minha formação pedagógica com a tecnologia para entregar valor real aos produtos e experiências digitais. Além disso, tenho me dedicado à construção de um portfólio prático, desenvolvendo soluções em Python e aprofundando meu domínio em testes, dados e automação.
+Tenho como foco a área de **Qualidade de Software (QA)** e busco unir minha formação pedagógica com a tecnologia para entregar valor real aos produtos e experiências digitais.
 
 Além disso estou me preparando para certificação Cloud Practitioner da AWS
 

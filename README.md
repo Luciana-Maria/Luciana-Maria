@@ -9,7 +9,7 @@ Atualmente, estou na **segunda fase do Programa Desenvolve do Grupo Boticário**
 
 Tenho como foco a área de **Qualidade de Software (QA)** e busco unir minha formação pedagógica com a tecnologia para entregar valor real aos produtos e experiências digitais.
 
-Além disso estou me preparando para certificação Cloud Practitioner da AWS
+Além disso possuo certificação Cloud Practitioner da AWS
 
 🚀 Em constante aprendizado e aberta a oportunidades que desafiem meu crescimento técnico e humano.
 

@@ -1,40 +1,32 @@
 <h1 align="center"> Olá, eu sou a Luciana!</h1>
 
 ---
+Formada em Análise e Desenvolvimento de Sistemas e Pedagogia, trago comigo uma combinação única entre lógica, empatia e comunicação clara.
 
-### Sobre mim
-Olá! Sou Luciana, profissional em transição de carreira para a área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas e também em Pedagogia, com uma forte base em lógica, raciocínio estruturado e comunicação.
+Concluí recentemente a Trilha de Engenharia de Dados do Programa Desenvolve – Grupo Boticário, onde aprofundei meus conhecimentos em banco de dados, ETL, pipelines, modelagem de dados e boas práticas de engenharia.
+Essa jornada me fez enxergar o poder dos dados em contar histórias, gerar valor e impulsionar decisões estratégicas.
 
-Atualmente, estou na **segunda fase do Programa Desenvolve do Grupo Boticário**, participando da trilha de **Engenharia de Dados**, onde venho aprofundando meus conhecimentos em banco de dados, ETL, pipelines e boas práticas em projetos de dados.
+Atuo também com Qualidade de Software (QA), buscando unir minha bagagem pedagógica com a tecnologia para entregar produtos digitais mais intuitivos, acessíveis e confiáveis.
 
-Tenho como foco a área de **Qualidade de Software (QA)** e busco unir minha formação pedagógica com a tecnologia para entregar valor real aos produtos e experiências digitais.
+Além disso, possuo certificação AWS Cloud Practitioner.
 
-Além disso possuo certificação Cloud Practitioner da AWS
-
-🚀 Em constante aprendizado e aberta a oportunidades que desafiem meu crescimento técnico e humano.
-
----
-
+ Em constante aprendizado e aberta a desafios que expandam meu crescimento técnico, humano e colaborativo.
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray-003366?style=flat-square&logo=xray&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-4C4C4C?style=flat-square&logo=trello&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-5A9FD4?style=flat-square&logo=cucumber&logoColor=white)
-
 ---
 
 ### 📂 Projeto em Destaque
 
-- ☁️ **[Projeto final Escola da Nuvem com AWS CLI](https://github.com/Luciana-Maria/projeto-chatbot)**  
+- **[Projeto final Programa Dsenvolve Grupo Boticário](https://github.com/Luciana-Maria/Projeto_Final_ProgramaDesenvolve_Boticario)**
+  
+  Análise de dados do e-commerce Olist (Kaggle) com SQL, BigQuery,Python e Looker Studio.
+- **[Projeto final Escola da Nuvem com AWS CLI](https://github.com/Luciana-Maria/projeto-chatbot)**
+  
  Aplicativo de apoio em situações de emergência para mulheres e pessoas LGBTQIAPN+, com botão de pânico, geolocalização e acesso rápido a redes de apoio.
 
 ---

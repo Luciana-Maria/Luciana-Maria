@@ -14,7 +14,7 @@ Além disso, possuo certificação AWS Cloud Practitioner.
 
 ### 📂 Projeto em Destaque
 
-- **[Projeto final Programa Dsenvolve Grupo Boticário](https://github.com/Luciana-Maria/Projeto_Final_ProgramaDesenvolve_Boticario)**
+- **[Projeto final Programa Desenvolve Grupo Boticário](https://github.com/Luciana-Maria/Projeto_Final_ProgramaDesenvolve_Boticario)**
   
   Análise de dados do e-commerce Olist (Kaggle) com SQL, BigQuery,Python e Looker Studio.
 - **[Projeto final Escola da Nuvem com AWS CLI](https://github.com/Luciana-Maria/projeto-chatbot)**

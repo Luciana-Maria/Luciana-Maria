@@ -34,7 +34,7 @@ Além disso, possuo certificação AWS Cloud Practitioner.
 ### 📫 Contato
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/luciana-santos-maria/)
-- 📧 [Email]lucianamaria1984santos@gmail.com
+- 📧Email:lucianamaria1984santos@gmail.com
 
 ---
 
